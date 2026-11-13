@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>سياسة الخصوصية - المصحف الشريف</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --text: #1f2937;
+    --muted: #6b7280;
+    --accent: #166534;
+    --border: #e5e7eb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #111827;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --accent: #4ade80;
+      --border: #374151;
+    }
+  }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+    line-height: 1.9;
+  }
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 24px 20px 48px;
+  }
+  h1 {
+    color: var(--accent);
+    font-size: 1.6rem;
+    margin-bottom: 4px;
+  }
+  h2 {
+    color: var(--accent);
+    font-size: 1.15rem;
+    margin-top: 28px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 6px;
+  }
+  .date { color: var(--muted); font-size: 0.9rem; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <h1>سياسة الخصوصية لتطبيق المصحف الشريف</h1>
+  <p class="date">آخر تحديث: 13 نوفمبر 2026</p>
+
+  <h2>المعلومات التي نجمعها</h2>
+  <p>التطبيق لا يجمع أي بيانات شخصية. لا يوجد تسجيل دخول ولا حسابات، ولا نطلب منك اسمًا أو بريدًا إلكترونيًا أو رقم هاتف أو موقعًا جغرافيًا.</p>
+
+  <h2>المعلومات المخزّنة على جهازك</h2>
+  <p>يحفظ التطبيق على جهازك فقط: نص المصحف بعد تحميله أول مرة، وآخر سورة قرأتها، وحجم الخط، واختيار الوضع الليلي. هذه المعلومات لا تُرسل إلى أي جهة، ويمكنك حذفها بحذف التطبيق أو مسح بياناته.</p>
+
+  <h2>الخدمات الخارجية</h2>
+  <p>يتصل التطبيق بالإنترنت لتحميل نص المصحف والتفسير والتلاوات الصوتية من خدمات خارجية (api.alquran.cloud وeveryayah.com). عند الاتصال بها، قد تستقبل هذه الخدمات عنوان الـ IP الخاص بك ونوع جهازك كما يحدث في أي اتصال بالإنترنت. نحن لا نتحكم في سياسات هذه الخدمات.</p>
+
+  <h2>الإعلانات والتحليلات</h2>
+  <p>لا يحتوي التطبيق على إعلانات، ولا على أدوات تتبع أو تحليلات.</p>
+
+  <h2>الأطفال</h2>
+  <p>التطبيق مناسب لجميع الأعمار، ولا يجمع بيانات من أي مستخدم.</p>
+
+  <h2>التغييرات على هذه السياسة</h2>
+  <p>قد نحدّث هذه السياسة من وقت لآخر، وسيظهر تاريخ آخر تحديث أعلى الصفحة.</p>
+
+  <h2>التواصل</h2>
+  <p>لأي استفسار: <a href="mailto:ibrahim1012131415161718@gmail.com">ibrahim1012131415161718@gmail.com</a></p>
+</main>
+</body>
+</html>
